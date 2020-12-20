@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.exe
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.deps.json
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.dll
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\bin\Debug\netcoreapp3.1\DijkstraAndFloyd.pdb
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.dll
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.pdb
+C:\Users\Lenovo\source\repos\DijkstraAndFloyd\DijkstraAndFloyd\obj\Debug\netcoreapp3.1\DijkstraAndFloyd.genruntimeconfig.cache
